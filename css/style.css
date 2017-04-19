@@ -1,0 +1,36 @@
+.lightgray {
+  background-color: lightgray;
+  padding: 30px;
+}
+
+.black {
+  background-color: black;
+  height: 20px;
+}
+
+.space {
+  background-color: lightgray;
+  height: 30px;
+}
+
+.content {
+  background-color: black;
+  height: 500px;
+}
+
+.content2 {
+  background-color: black;
+  height: 150px;
+  margin-left: 30px;
+}
+
+.black2 {
+  background-color: black;
+  height: 150px;
+}
+
+.black1 {
+  background-color: black;
+  height: 20px;
+  margin-left: 30px;
+}
